@@ -1,0 +1,26 @@
+- date: date of day as string yyyy-mm-dd
+- hl: local holidays Mo-Su (string)
+- hls: local school holidays (string)
+- wday: string of day of week wd1 (= Monday), ... wd7 (= Sunday)
+- wdayN: Number of day of week 1 = Monday, ... 7 = Sunday
+- month: month number
+- yweekN: calendar week
+- year: year as 4 digit number
+- hr: local relative humidity
+- ppt: local precipitation
+- tmp: local temperature [°C]
+- sf: local snow fraction
+- sun: Local number of minutes of sun shine
+- ws: local wind speed [m/s]
+- turnover: turnover CHF
+
+
+
+
+
+
+
+
+
+
+
